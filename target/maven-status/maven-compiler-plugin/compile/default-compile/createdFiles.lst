@@ -1,0 +1,15 @@
+com\intralot\testcoverage\parameterspackage\ParametRepository.class
+com\intralot\testcoverage\methodpackage\MethodRepository.class
+com\intralot\testcoverage\parameterspackage\ParametController.class
+com\intralot\testcoverage\methodpackage\MethodController.class
+com\intralot\testcoverage\parameterspackage\ParametService.class
+com\intralot\testcoverage\swaggerpackage\SwaggerController.class
+com\intralot\testcoverage\swaggerpackage\SwaggerRepository.class
+com\intralot\testcoverage\methodpackage\MethodService.class
+com\intralot\testcoverage\swaggerpackage\Swag.class
+com\intralot\testcoverage\fullcoveragepackage\FullcoverageRepository.class
+com\intralot\testcoverage\Main.class
+com\intralot\testcoverage\parameterspackage\Paramet.class
+com\intralot\testcoverage\fullcoveragepackage\Fullcoverage.class
+com\intralot\testcoverage\methodpackage\Method.class
+com\intralot\testcoverage\swaggerpackage\SwaggerService.class

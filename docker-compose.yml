@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+ project:
+    image: project_dev_img
+    expose:
+      - "9090"
+    environment:
+      - SPRING_DATASOURCE_URL=jdbc:mysql://localhost:8081/project?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC&useTimezone=true
+      - SPRING_DATASOURCE_USERNAME=root
+      - SPRING_DATASOURCE_PASSWORD=Takis1234
+    ports:
+      - 8035:9090
